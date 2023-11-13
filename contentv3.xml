@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -375,7 +375,7 @@
       <instance class="exe.engine.node.Node" reference="9">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Materiales"></unicode>
+        <unicode value="    Materiales"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="7">
@@ -639,7 +639,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7f2062cfdcf3f4b0826a5769e2bf3317"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -691,7 +691,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="142a792ea876282f667d00d9cae742dc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -743,7 +743,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8ebbeba7d520ce42deb8f9246fcd9155"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -795,7 +795,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img3.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9c482b11fe455f1ae9eb6a4516611cb9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -847,7 +847,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img4.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f104df5d6844ca816d4f0ed214818f99"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -899,7 +899,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img5.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img5.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img5.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e81719ca5cd5a85f94a05efcc0bc8cda"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -951,7 +951,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img6.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img6.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img6.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b59f885d946bab9ee76b03f940ec2383"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1003,7 +1003,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img7.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img7.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img7.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8b07fdf6405cfa5c438a8f1fc3b45133"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1083,7 +1083,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:Materiales"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20Materiales"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1095,7 +1095,7 @@
       <instance class="exe.engine.node.Node" reference="22">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Ensamble del carro"></unicode>
+        <unicode value="    Ensamble del carro"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="20">
@@ -1176,11 +1176,11 @@
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para el ensamble del carro, debemos cortar el retaso MDF y abrir los agujeros con ayuda de un taladro y una broca de lámina de 3 mm de diámetro siguiendo las instrucciones en el plano a continuación:&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/1_-_Plano-chasis.png&quot; alt=&quot;&quot; width=&quot;1130&quot; height=&quot;581&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;img src=&quot;resources/3_-_Tornillos_para_ajustar_los_modulos_al_Chasis-MDF.png&quot; alt=&quot;&quot; width=&quot;2203&quot; height=&quot;1304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/1_-_Plano-chasis.png&quot; alt=&quot;&quot; width=&quot;1130&quot; height=&quot;581&quot; /&gt;&lt;img src=&quot;resources/3_-_Tornillos_para_ajustar_los_modulos_al_Chasis-MDF.png&quot; alt=&quot;&quot; width=&quot;689&quot; height=&quot;408&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/2_-_Carro.jpg&quot; alt=&quot;&quot; width=&quot;806&quot; height=&quot;850&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/2_-_Carro.jpg&quot; alt=&quot;&quot; width=&quot;850&quot; height=&quot;897&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1225,7 +1225,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="1_-_Plano-chasis.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\1_-_Plano-chasis.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\1_-_Plano-chasis.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b26b1edf40bede2d37459bd536bd1cbf"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1277,7 +1277,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="2_-_Carro.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\2_-_Carro.jpg"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\2_-_Carro.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2cd23ae0bb38cc13d31e3394443f1815"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1329,7 +1329,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="3_-_Tornillos_para_ajustar_los_modulos_al_Chasis-MDF.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\3_-_Tornillos_para_ajustar_los_modulos_al_Chasis-MDF.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\3_-_Tornillos_para_ajustar_los_modulos_al_Chasis-MDF.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="995a2180391674babc91ee313113bdd0"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1404,7 +1404,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:Ensamble%20del%20carro"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20Ensamble%20del%20carro"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1416,7 +1416,7 @@
       <instance class="exe.engine.node.Node" reference="28">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Puente H"></unicode>
+        <unicode value="    Puente H"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="26">
@@ -1545,7 +1545,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c436f2bb131a4be20babfb9775a6e5df"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1683,7 +1683,7 @@
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/img0.4.png&quot; width=&quot;629&quot; height=&quot;384&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Las entradas de habilitación y las entradas del motor controlan la dirección y la velocidad de los motores, mientras que las borneras de alimentación proporcionan la energía necesaria para el puente H y los motores.&lt;/p&gt;
+&lt;p&gt;las entradas de habilitación y las entradas del motor controlan la dirección y la velocidad de los motores, mientras que las borneras de alimentación proporcionan la energía necesaria para el puente H y los motores.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Entradas del Motor (out1, out2 y out3, out4)&lt;/strong&gt;: Estas son las conexiones que van directamente al motor. Dependiendo de las combinaciones de señales aplicadas a estas entradas, el motor girará en una dirección específica (adelante o atrás) o se detendrá.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;EN1 y EN2:&lt;/strong&gt; Son las entradas de habilitación para el motor conectado al lado A del puente H. La señal que aplicas aquí determina si el motor A está habilitado y responde a las señales en sus entradas.&lt;/li&gt;
@@ -1736,7 +1736,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.4.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="65a487106303ae7ba3cb629069a89c1d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1924,7 +1924,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4bd71c83b56d8d4059774de82f2d408b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1976,7 +1976,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img1.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img1.1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img1.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5750fa58e30a1c7bf72bde5ef2246ab1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2028,7 +2028,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img2.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img2.1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img2.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="608eb93e9c95645a02fbc1977d142cfd"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2080,7 +2080,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img3.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img3.1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img3.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="40a26f5d266d1c4e7d4b454e313d5dc9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2132,7 +2132,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img5.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img5.2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img5.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="871a9c31aca060b8c125020cd5311c43"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2318,7 +2318,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.3.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a9bf4b3060a38d914e3a806d41bd9198"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2391,7 +2391,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:Puente%20H"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20Puente%20H"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2403,7 +2403,7 @@
       <instance class="exe.engine.node.Node" reference="45">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Sensor de color"></unicode>
+        <unicode value="    Sensor de color"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="43">
@@ -2484,7 +2484,7 @@
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El sensor de color, en nuestro caso el sensor de color ref.: TCS3200, es un dispositivo electrónico que se utiliza para detectar y cuantificar la intensidad de luz en diferentes frecuencias del espectro de color. Este sensor es particularmente eficaz en aplicaciones donde es necesario identificar y distinguir colores de manera precisa.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Analogía entre el funcionamiento del ojo humano y el sensor de color.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Analogia entre el funcionamiento del ojo humano y el sensor de color.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;El espectro visible es la porción del espectro electromagnético que el ojo humano es capaz de percibir. Esta franja de radiación electromagnética abarca longitudes de onda que van aproximadamente desde 380 a 750 nanómetros. Dentro de este rango, la luz se percibe como diferentes colores. La secuencia típica de colores en el espectro visible es rojo, naranja, amarillo, verde, azul y violeta.&lt;/p&gt;
 &lt;p&gt;Cuando la luz blanca (que contiene todas las longitudes de onda en el espectro visible) atraviesa un prisma o se dispersa de alguna manera, se divide en sus componentes de color, revelando así la gama completa del espectro visible. Esto es conocido como dispersión de la luz y fue estudiado por Sir Isaac Newton.&lt;/p&gt;
 &lt;p&gt;Es importante destacar que el ojo humano es más sensible a las longitudes de onda en la región del verde y amarillo, lo que tiene implicaciones en la forma en que percibimos los colores y en la tecnología de captura de imágenes, como en las cámaras fotográficas.&lt;/p&gt;
@@ -2535,7 +2535,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.5.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.5.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.5.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d05ee5ff9d2afb70707b39fa9277a3a1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2726,7 +2726,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.6.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.6.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.6.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9070c387763c2f4981b96a424de6ffce"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2915,7 +2915,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.7.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.7.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.7.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3558da74f74da7c7e9f468d9baae39ad"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3103,7 +3103,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.8.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.8.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.8.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e80c12837f37d4db1ba334fa6d719dc4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3155,7 +3155,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img1.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img1.2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img1.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="49fe4ebe778f70fb4d806571f1e34c88"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3207,7 +3207,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img2.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img2.2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img2.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ccca1973e79928a82d7a8e9d3de70d85"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3259,7 +3259,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img3.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img3.2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img3.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4fc722a586a51a11b3f3f2581f1eb568"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3311,7 +3311,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img4.2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img4.2.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img4.2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="486dee5430a7235789935a7959af053d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3497,7 +3497,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.9.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.9.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.9.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d8d8d9d7deae1eb21c554543a524ab61"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3570,7 +3570,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:Sensor%20de%20color"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20Sensor%20de%20color"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3582,7 +3582,7 @@
       <instance class="exe.engine.node.Node" reference="65">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Código del proyecto"></unicode>
+        <unicode value="    Código del proyecto"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="63">
@@ -3720,7 +3720,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.10.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.10.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.10.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a6dac1b5172fd1dbd8abb9e7a29139de"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3772,7 +3772,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img1.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img1.3.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img1.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6996024c5bd39c457374c539cfc2ac15"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3824,7 +3824,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img2.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img2.3.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img2.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ddc127e71c03a761927d6a226a525a2b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3876,7 +3876,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img3.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img3.3.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img3.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="97633faea4335905ff221020d4828ac4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3928,7 +3928,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img4.3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img4.3.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img4.3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5ea607d0f2825bd50594df42838fe84b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3980,7 +3980,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img5.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img5.1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img5.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f3e65eb1786dde5f5e10a11162de6470"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4032,7 +4032,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img6.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img6.1.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img6.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5620f9cd2b9f81b6b3846f58ca2be103"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4111,7 +4111,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:C%C3%B3digo%20del%20proyecto"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20C%C3%B3digo%20del%20proyecto"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4123,7 +4123,7 @@
       <instance class="exe.engine.node.Node" reference="75">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Testeando nuestro proyecto"></unicode>
+        <unicode value="    Testeando nuestro proyecto"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="73">
@@ -4264,7 +4264,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img1.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img1.4.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img1.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9f77eae634071182485eb2282f2982e8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4316,7 +4316,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img2.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img2.4.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img2.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="65189f072e8ddff585853882334632c3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4368,7 +4368,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img3.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img3.4.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img3.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="21f882a59d8c701a528184724283171e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4420,7 +4420,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img4.4.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img4.4.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img4.4.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b0917620d55e584811e4580b6244c47"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4561,7 +4561,7 @@
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Ahora que tenemos listo nuestro carro sensor de color con su código listo para ser testeado y nuestra pista de colores está preparada para recibir nuestro carro, pongamos en marcha nuestro carro y juguemos con el código variando parámetros o argumentos para observar como cambia el comportamiento del carro sobre la pista de colores:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/img0.12.png&quot; width=&quot;239&quot; height=&quot;477&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;     &lt;/span&gt;&lt;img src=&quot;resources/img1.5.png&quot; width=&quot;234&quot; height=&quot;464&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/img0.12.png&quot; width=&quot;239&quot; height=&quot;477&quot; alt=&quot;&quot; style=&quot;float: left;&quot; /&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;     &lt;/span&gt;&lt;img src=&quot;resources/img1.5.png&quot; width=&quot;234&quot; height=&quot;464&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4606,7 +4606,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.12.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.12.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.12.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="454ad2eb8b1d00e30d46e3dc91fbb538"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4658,7 +4658,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img1.5.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img1.5.png"></string>
+                     <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img1.5.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="779f8a8e1f799d81c6753dad943d9840"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4732,7 +4732,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:Testeando%20nuestro%20proyecto"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20Testeando%20nuestro%20proyecto"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4744,7 +4744,7 @@
       <instance class="exe.engine.node.Node" reference="84">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Prueba de conocimientos"></unicode>
+        <unicode value="    Prueba de conocimientos"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.multichoiceidevice.MultichoiceIdevice" reference="85">
@@ -6353,7 +6353,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                     <string role="key" value="_storageName"></string>
                     <string value="img0.11.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpe8kmbx\\img0.11.png"></string>
+                    <string value="c:\\users\\asus\\appdata\\local\\temp\\tmprnxwx7\\img0.11.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="893bb35b5d31fab104245206ffb61e5b"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6799,7 +6799,7 @@ estudiante a responder la pregunta."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:Prueba%20de%20conocimientos"></string>
+        <string value="exe-node:Proyecto%3A%20Carro%20sensor%20de%20color:%20%20%20%20Prueba%20de%20conocimientos"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -6994,7 +6994,7 @@ estudiante a responder la pregunta."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="128"></reference>
+  <reference key="9"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
